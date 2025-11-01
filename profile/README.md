@@ -1,4 +1,4 @@
-en English version — FIMI Navi 2020
+
 
 # FIMI Navi 2020 — drone control and aerial filming app
 
